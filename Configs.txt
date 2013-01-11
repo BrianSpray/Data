@@ -1,5 +1,6 @@
-210 - Smithing
-211 - Smithing
-300 - Special Attack bar
-301 - Special Attack bar
-363 - Kingdom of Miscellania Management
+Interface Id    Config Id    Setting Id    Brief Description
+994             210          0 - 5         Colors the number of bars contained text in green.
+994             211          0 - 25        Highlights the names of items in level order
+Attack Tab      300          0 - 1000      Fills the special bar
+Attack Tab      301          0 - 1         Highlights the 'Special S
+10984           363          0 - ??        Fills the work distribution bars
